@@ -14,7 +14,7 @@ If you need help using the script, use -h.
 
 Available Options:
 
--h, --help                         Show this help Menu
+-h, --help                         Show this help menu
 -tTARGET, --target=TARGET          Specify the target URL or IP
 -pPORTS, --ports=PORTS             Specify the ports you want to send packets to
   BANNER
